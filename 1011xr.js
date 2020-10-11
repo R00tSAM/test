@@ -91,7 +91,7 @@ class Client {
         this.clientX = 0;
         this.clientY = 0;
         this.botID = 1;
-        this.loadCSS();
+        // this.loadCSS();
     }
 
     async fetchLatest() {
