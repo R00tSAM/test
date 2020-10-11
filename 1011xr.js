@@ -160,7 +160,7 @@ class Client {
         `);
         if (!localStorage.getItem('botAmount')) localStorage.setItem('botAmount', 10);
         if (!localStorage.getItem('botNick')) localStorage.setItem('botNick', 'Sanik');
-        console.log('[AgarUnlimited] Ready!');
+        console.log('test ok');
     }
 
     startBots(amount) {
